@@ -1,0 +1,29 @@
+.navbar-nav .nav-item .nav-link {
+    color: #000000;
+    font-size: 16.2px;
+    font-family: 'Open Sans';
+}
+
+.nav-logo {
+    width: 66px;
+    height: 66px;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 1rem;
+}
+
+.dropdown-menu .dropdown-item {
+    font-family: 'Open Sans';
+}
+
+.login {
+    background-color: #7ECB20;
+    border-radius: 50px;
+    width: 134px;
+    text-align: center;
+}
+
+.dropdown-menu.show {
+    margin-top: 1.3rem;
+}

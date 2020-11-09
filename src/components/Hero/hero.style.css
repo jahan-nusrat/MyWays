@@ -1,0 +1,19 @@
+.hero-heading {
+    font-size: 41px;
+    font-weight: bold;
+}
+
+.hero-content {
+    font-size: 28px;
+}
+
+.hero-btn {
+    background-color: #7ECB20;
+    border-radius: 30px;
+    width: 236px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 2.6rem;
+}

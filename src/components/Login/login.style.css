@@ -1,0 +1,59 @@
+.login-section {
+    margin-top: 4.5rem;
+}
+
+.ReactModal__Overlay--after-open {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.ReactModal__Content {
+    position: relative;
+}
+
+.close {
+    position: absolute;
+    right: 2rem;
+    top: 3.2rem;
+    color: #707070 !important;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #707070 !important;
+}
+
+.login-form .form-control {
+    height: 48px;
+    font-size: 18px;
+    border: 1px solid #707070;
+}
+
+.login-form .form-control:focus {
+    box-shadow: 0 0 0 transparent !important;
+}
+
+.login-form {
+    border: 1px solid #707070;
+    padding: 1.6rem;
+}
+
+.btn-login {
+    background-color: #7ECB20;
+    font-family: Segoe UI;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.btn-login:hover {
+    background-color: #80b93b;
+    color: #ffffff;
+}
+
+.password {
+    color: #7ECB20;
+    font-size: 15px;
+    font-family: Segoe UI;
+    font-weight: 600;
+    text-align: right;
+}
